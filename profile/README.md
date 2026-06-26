@@ -12,6 +12,9 @@ Production-grade software built for real-world applications and shared with the 
 - [Laravel Membership](https://github.com/vimatech-io/laravel-membership) — Flexible membership and subscription infrastructure for Laravel
 - [Laravel Invitations](https://github.com/vimatech-io/laravel-invitations) — Generic email-based invitation system for Laravel
 - [Laravel Secure Fields](https://github.com/vimatech-io/laravel-secure-fields) — Encrypted Eloquent fields with advanced security features
+- [Laravel Document Numbering](https://github.com/vimatech-io/laravel-document-numbering) — Sequential, gap-free, concurrency-safe document numbering (invoices, quotes, credit notes)
+- [Laravel Integrations](https://github.com/vimatech-io/laravel-integrations) — Config-driven ports & adapters foundation for external providers
+- [Laravel E-Invoicing](https://github.com/vimatech-io/laravel-einvoicing) — Native Peppol BIS 3.0 / EN 16931 e-invoice generation and dispatch
 - Laravel Bookable — Booking infrastructure for Laravel *(coming soon)*
 
 ## Core Technologies
