@@ -1,3 +1,10 @@
+<a href="https://vimatech.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://vimatech.io/github/profile-banner-dark.webp">
+    <img alt="Vimatech: a UK software company that builds, runs and sells its own SaaS products" src="https://vimatech.io/github/profile-banner-light.webp">
+  </picture>
+</a>
+
 # Vimatech
 
 Vimatech Ltd is a UK software company, registered in England and Wales
