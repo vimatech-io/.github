@@ -15,7 +15,7 @@ from its codebase as open source.
 ## Products
 
 - [MakeResume](https://makeresume.io) · Online resume builder: professional templates, eight languages, PDF export · *In production*
-- [Rendevo](https://rendevo.com) · A qualification step in front of the booking page: only prospects who match your criteria can book · *Private preview*
+- [Rendevo](https://rendevo.com) · A qualification step in front of the booking page: only prospects who match your criteria can book · *In production*
 - MakeInvoice · Invoicing for freelancers and small businesses facing the European e-invoicing mandates · *In development*
 - Kyphra · One OpenAI-compatible API to route, control and observe AI workloads · *In development*
 
