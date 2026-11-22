@@ -21,7 +21,7 @@ from its codebase as open source.
 
 ## Open source
 
-MIT-licensed, on GitHub and Packagist. Each one does a single job.
+MIT-licensed, on GitHub and Packagist. Each one does a single job. The full list is at [vimatech.io/open-source](https://vimatech.io/open-source/).
 
 - [laravel-secure-fields](https://github.com/vimatech-io/laravel-secure-fields) · Encrypted Eloquent fields, with exact-match lookups through a blind index
 - [laravel-membership](https://github.com/vimatech-io/laravel-membership) · Teams, memberships and roles on any Eloquent model
@@ -31,6 +31,8 @@ MIT-licensed, on GitHub and Packagist. Each one does a single job.
 - [laravel-einvoicing](https://github.com/vimatech-io/laravel-einvoicing) · Peppol BIS 3.0 and EN 16931 e-invoices, generated natively
 - [laravel-quotas](https://github.com/vimatech-io/laravel-quotas) · Feature entitlements and usage quotas, on top of Cashier or standalone
 - [laravel-audit-log](https://github.com/vimatech-io/laravel-audit-log) · Append-only, tenant-aware audit log: who did what, to which record, in which tenant
+
+Experimental: [WarpPHP](https://github.com/vimatech-io/WarpPHP) · A Rust-powered PHP compiler exploring native binaries and LLVM
 
 ## Company
 
